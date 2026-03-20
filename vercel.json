@@ -1,7 +1,6 @@
 {
-    "rewrites": [
-          { "source": "/", "destination": "/public/landing.html" },
-          { "source": "/landing", "destination": "/public/landing.html" },
-          { "source": "/landing.html", "destination": "/public/landing.html" }
-    ]
+      "rewrites": [
+              { "source": "/", "destination": "/landing.html" },
+              { "source": "/landing", "destination": "/landing.html" }
+      ]
 }
