@@ -1,0 +1,8 @@
+{
+  "name": "abstract-roofing-landing",
+  "version": "1.0.0",
+  "description": "Abstract Roofing & Construction — Landing Page + JobNimbus Webhook",
+  "engines": {
+    "node": ">=18"
+  }
+}
